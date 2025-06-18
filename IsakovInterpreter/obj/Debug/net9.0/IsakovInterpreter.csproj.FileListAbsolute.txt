@@ -1,0 +1,14 @@
+C:\Users\Yogev\RiderProjects\IsakovInterpreter\IsakovInterpreter\bin\Debug\net9.0\IsakovInterpreter.exe
+C:\Users\Yogev\RiderProjects\IsakovInterpreter\IsakovInterpreter\bin\Debug\net9.0\IsakovInterpreter.deps.json
+C:\Users\Yogev\RiderProjects\IsakovInterpreter\IsakovInterpreter\bin\Debug\net9.0\IsakovInterpreter.runtimeconfig.json
+C:\Users\Yogev\RiderProjects\IsakovInterpreter\IsakovInterpreter\bin\Debug\net9.0\IsakovInterpreter.dll
+C:\Users\Yogev\RiderProjects\IsakovInterpreter\IsakovInterpreter\bin\Debug\net9.0\IsakovInterpreter.pdb
+C:\Users\Yogev\RiderProjects\IsakovInterpreter\IsakovInterpreter\obj\Debug\net9.0\IsakovInterpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yogev\RiderProjects\IsakovInterpreter\IsakovInterpreter\obj\Debug\net9.0\IsakovInterpreter.AssemblyInfoInputs.cache
+C:\Users\Yogev\RiderProjects\IsakovInterpreter\IsakovInterpreter\obj\Debug\net9.0\IsakovInterpreter.AssemblyInfo.cs
+C:\Users\Yogev\RiderProjects\IsakovInterpreter\IsakovInterpreter\obj\Debug\net9.0\IsakovInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\Yogev\RiderProjects\IsakovInterpreter\IsakovInterpreter\obj\Debug\net9.0\IsakovInterpreter.dll
+C:\Users\Yogev\RiderProjects\IsakovInterpreter\IsakovInterpreter\obj\Debug\net9.0\refint\IsakovInterpreter.dll
+C:\Users\Yogev\RiderProjects\IsakovInterpreter\IsakovInterpreter\obj\Debug\net9.0\IsakovInterpreter.pdb
+C:\Users\Yogev\RiderProjects\IsakovInterpreter\IsakovInterpreter\obj\Debug\net9.0\IsakovInterpreter.genruntimeconfig.cache
+C:\Users\Yogev\RiderProjects\IsakovInterpreter\IsakovInterpreter\obj\Debug\net9.0\ref\IsakovInterpreter.dll
